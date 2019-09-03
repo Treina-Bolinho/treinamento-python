@@ -10,6 +10,8 @@ As atividades são listadas com base na sua dificuldade e complexidade.
 O objetivo é que ao final do treinamento o participante se sinta confortável 
 em utilizar Python em projeto maiores.
 
+Utilize o [treinamento GIT](https://github.com/Treina-Bolinho/treinamento-GIT) durante a realização deste treinamento
+
 ## 2. Atividades
 
 ## 2.1 Lista de exercícios usando python
