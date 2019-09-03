@@ -60,6 +60,8 @@ treinamento.
 
 * [Site Python Brasil](https://python.org.br/introducao/)
 
+* [Lista de mini projetos sugeridos](https://www.quora.com/What-are-small-projects-to-build-for-a-beginner-in-Python)
+
 ## Observações
 
 Qualquer dúvida sobre os projetos entre em contato com o grupo
