@@ -1,10 +1,9 @@
 # URI - 1010
 
-l1 = input().split(" ")
-l2 = input().split(" ")
+la = input().split()
+lb = input().split()
 
-a0, b0, c0 = l1
-a1, b1, c1 = l2
+a = int(la[1]) * float(la[2])
+b = int(lb[1]) * float(lb[2])
 
-x = (b0 * c0) + (b1 * c1)
-print ('VALOR A PAGAR: R$ {:.2}'.format(x))
+print ('VALOR A PAGAR: R$ {:.2f}'.format(a + b))
