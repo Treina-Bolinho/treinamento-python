@@ -1,11 +1,10 @@
 
-# Treinamento Python
+### Treinamento Python 
 
-1. Descrição:
+##Descrição:
 
-25 primeiros exercícios do site [URI](https://www.urionlinejudge.com.br/judge/pt/problems/index
-Questoes resolvidas em python 3
-
+#- 25 primeiros exercícios do site [URI](https://www.urionlinejudge.com.br/judge/pt/problems/index)
+#- Questoes resolvidas em python 3
 
 
 
